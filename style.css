@@ -24,13 +24,29 @@ body {
     gap: 15px;
 }
 
-a {
+a,
+.secondary-text {
     text-decoration: none;
     color: #E5E7EB;
+    font-size: 18px;
 }
 
 .header-logo {
     font-size: 24px;
     color: #F9FAF8;
     font-weight: 700;
+}
+
+.header-bottom {
+    display: flex;
+}
+
+.main-text {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+.placeholder {
+    
 }
