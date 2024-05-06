@@ -70,4 +70,17 @@ button {
 
 .information-content {
     display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.information-header {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+}
+
+.information-text {
+    width: 150px;
+    text-wrap: wrap;
 }
