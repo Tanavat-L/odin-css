@@ -63,3 +63,11 @@ button {
 .header-text {
     margin-right: 50px;
 }
+
+.information {
+    text-align: center;
+}
+
+.information-content {
+    display: flex;
+}
