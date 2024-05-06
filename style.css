@@ -84,3 +84,9 @@ button {
     width: 150px;
     text-wrap: wrap;
 }
+
+.information-image {
+    display: block;
+    border: 3px solid #3882F6;
+    border-radius: 20px;
+}
