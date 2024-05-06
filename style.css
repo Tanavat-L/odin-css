@@ -20,10 +20,9 @@ body {
     padding: 0;
     margin: 0;
     list-style-type: none;
-    display: flex;  
+    display: flex;
     gap: 20px;
 }
-
 
 a,
 .secondary-text {
@@ -84,10 +83,4 @@ button {
 .information-text {
     width: 150px;
     text-wrap: wrap;
-}
-
-.information-image {
-    display: block;
-    border: 3px solid #3882F6;
-    border-radius: 20px;
 }
