@@ -111,3 +111,30 @@ button {
     font-size: 22px;
     font-weight: 600;
 }
+
+.action {
+    padding: 75px 25%;
+}
+
+.action-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 125px;
+    background-color: #3882F6;
+    color: white;
+    padding: 50px 0px;
+    border-radius: 10px;
+}
+
+.action-button {
+    border: 2px solid white;
+}
+
+.action p{
+    margin: 5px;
+}
+
+.action strong{
+    font-size: 20px;
+}
